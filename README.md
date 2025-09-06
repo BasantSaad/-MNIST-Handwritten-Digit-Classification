@@ -17,7 +17,7 @@ This project demonstrates handwritten digits recognition using a neural network.
 - Jupyter Notebook
 - Required libraries (install via pip):
   ```bash
-  pip install numpy matplotlib tensorflow keras
+  pip install numpy matplotlib pytorch
   ```
 
 ### Running the Notebook
@@ -35,7 +35,7 @@ This project demonstrates handwritten digits recognition using a neural network.
 
 ## Dataset
 
-This notebook uses the MNIST dataset, which is loaded directly using Keras/TensorFlow utilities.
+This notebook uses the MNIST dataset, which is loaded directly using Pytorch.
 
 ## Project Structure
 
